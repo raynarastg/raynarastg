@@ -8,10 +8,7 @@
  </h1>
 <br/>
 
-<div align='center'>
-<img src='black.png'>
-<img src='cafe.png'>
-</div>
+
 <div align='center'>
 
   _Sou uma desenvolvedora full stack. Estou sempre buscando aprimorar minhas habilidades técnicas para criar soluções criativas e eficientes para os desafios do dia a dia. Quando não estou programando, provavelmente estou aproveitando uma xícara de café quente ou brincando com minha dog, a Black🐶_
