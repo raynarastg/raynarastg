@@ -11,7 +11,7 @@
 
 <div align='center'>
 
-  _Sou uma desenvolvedora full stack. Estou sempre buscando aprimorar minhas habilidades técnicas para criar soluções criativas e eficientes para os desafios do dia a dia. Quando não estou programando, provavelmente estou aproveitando uma xícara de café quente ou brincando com minha dog, a Black🐶_
+  _Sou uma desenvolvedora front-end. Estou sempre buscando aprimorar minhas habilidades técnicas para criar soluções criativas e eficientes para os desafios do dia a dia._
 
 </div>
 
